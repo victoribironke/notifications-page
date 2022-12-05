@@ -1,0 +1,117 @@
+@media screen and (max-width: 375px) and (max-width: 978px) {
+  body {
+    padding: 0;
+  }
+
+  main {
+    width: 100%;
+  }
+
+  .a {
+    font-size: 20px;
+  }
+
+  .b {
+    font-size: 13px;
+    padding: 3px 11px;
+    border-radius: 5px;
+    margin-left: 8px;
+  }
+
+  .c {
+    font-size: 14px;
+  }
+
+  .d {
+    font-size: 12px;
+  }
+
+  .f,
+  .g {
+    font-size: 12px;
+  }
+
+  .e {
+    font-size: 10px;
+  }
+
+  .one {
+    width: 90%;
+    justify-content: flex-start;
+    padding-left: 15px;
+  }
+
+  .one div {
+    width: 65%;
+    margin-left: 0px;
+  }
+
+  .two {
+    width: 57%;
+    font-size: 11px;
+    padding: 8px;
+  }
+
+  .one img {
+    width: 12%;
+  }
+}
+
+@media screen and (min-width: 426px) {
+  body {
+    padding: 0;
+  }
+
+  main {
+    width: 90%;
+  }
+
+  .a {
+    font-size: 30px;
+  }
+
+  .b {
+    font-size: 18px;
+    padding: 3px 11px;
+    border-radius: 5px;
+    margin-left: 8px;
+  }
+
+  .c {
+    font-size: 17px;
+  }
+
+  .d {
+    font-size: 15px;
+  }
+
+  .f,
+  .g {
+    font-size: 15px;
+  }
+
+  .e {
+    font-size: 12px;
+  }
+
+  .one {
+    width: 90%;
+    justify-content: flex-start;
+    padding-left: 15px;
+  }
+
+  .one div {
+    width: 65%;
+    margin-left: 0px;
+  }
+
+  .two {
+    width: 57%;
+    font-size: 15px;
+    padding: 8px;
+  }
+
+  .one img {
+    width: 8%;
+  }
+}
